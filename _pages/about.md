@@ -29,7 +29,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Computing Center (EPCC)</a>, Department of Computer Science and Engineering, Shanghai Jiao Tong University Shanghai Jiao Tong University, advised by Prof. Quan Chen and Prof. Minyi Guo. Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me.
+I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Computing Center (EPCC)</a>, Department of Computer Science and Engineering, Shanghai Jiao Tong University Shanghai Jiao Tong University, advised by Prof. Quan Chen and Prof. Minyi Guo. Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -40,7 +40,7 @@ I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Compu
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📝 Publications  -->
-# Publications 
+# Publications  
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +64,7 @@ I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Compu
 
 - <div class="pubtitle">IPDPS 2020</div> &nbsp;[Amoeba: Qos-awareness and Reduced Resource Usage of Microservices with Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9139803), **Zijun Li**, Quan Chen, Shuai Xue, Tao Ma, Yong Yang, Zhuo Song, Minyi Guo.
 
+<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 <!-- # Honors and Awards
 - *2022.09* National Scholarship (Ph.D.). 
