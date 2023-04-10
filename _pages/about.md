@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pubtitle {
+    background: #BD666D;
+    color: white;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 15px;
+    float: left;
+    font-weight: bold;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,18 +29,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Computing Center (EPCC)</a>, Department of Computer Science and Engineering, Shanghai Jiao Tong University Shanghai Jiao Tong University, advised by Prof. Quan Chen and Prof. Minyi Guo. Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News -->
+<!-- # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
+# Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +52,42 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <div class="pubtitle">USENIX ATC 2022</div> &nbsp;[RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing](https://www.usenix.org/conference/atc22/presentation/li-zijun-rund), **Zijun Li**, Jiagan Cheng, Quan Chen, Eryu Guan, Zizheng Bian, Yi Tao, Bin Zha, QiangWang, Weidong Han, Minyi Guo.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <div class="pubtitle">USENIX ATC 2022</div> &nbsp;[Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing](https://www.usenix.org/conference/atc22/presentation/li-zijun-help), **Zijun Li**, Linsong Guo, Quan Chen, Jiagan Cheng, Chuhao Xu, Deze Zeng, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <div class="pubtitle">ASPLOS 2022</div> &nbsp;[FaaSFlow: Enable Efficient Workflow Execution For Function-as-a-Service](https://dl.acm.org/doi/abs/10.1145/3503222.3507717), **Zijun Li**, Yushi Liu, Linsong Guo, Quan Chen, Jiagan Cheng, Wenli Zheng, Minyi Guo.
 
-# 💬 Invited Talks
+- <div class="pubtitle">ACM Comput. Surv.</div> &nbsp;[The Serverless Computing Survey: A Technical Primer for Design Architecture](https://dl.acm.org/doi/abs/10.1145/3508360), **Zijun Li**, Linsong Guo, Jiagan Cheng, Quan Chen, BingSheng He, Minyi Guo.
+
+- <div class="pubtitle">IPDPS 2020</div> &nbsp;[Amoeba: Qos-awareness and Reduced Resource Usage of Microservices with Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9139803), **Zijun Li**, Quan Chen, Shuai Xue, Tao Ma, Yong Yang, Zhuo Song, Minyi Guo.
+
+
+<!-- # Honors and Awards
+- *2022.09* National Scholarship (Ph.D.). 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- # 🎖 Honors and Awards -->
+
+# Educations
+- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China. 
+- *2018.09 - Now*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+- *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
+<!-- # 📖 Educations -->
+
+<!-- # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- # 💬 Invited Talks -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<!-- # Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships -->
+
+<hr>
+<img alt="last updated" src="https://img.shields.io/github/last-commit/lzjzx1122/lzjzx1122.github.io?color=e8e8e8&label=Last%20Updated&logo=Convertio&logoColor=white&style=flat-square&labelColor=gray">  &nbsp;
+
+<a href="http://s01.flagcounter.com/more/gWC"><img src="https://s01.flagcounter.com/count2/gWC/bg_F5F5F5/txt_000000/border_8C8C8C/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
