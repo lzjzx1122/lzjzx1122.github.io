@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-.pubtitle {
+.pubtitle{
     background: #BD666D;
     color: white;
     font-size: 12px;
@@ -17,6 +17,9 @@ redirect_from:
     border-radius: 15px;
     float: left;
     font-weight: bold;
+}
+.font-bold{
+    font-weight:bold;
 }
 </style>
 
@@ -54,11 +57,11 @@ I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http:/
 </div>
 </div> -->
 <ul>
-<li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;[RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing](https://www.usenix.org/conference/atc22/presentation/li-zijun-rund), **Zijun Li**, Jiagan Cheng, Quan Chen, Eryu Guan, Zizheng Bian, Yi Tao, Bin Zha, QiangWang, Weidong Han, Minyi Guo.</li>
-<li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;[Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing](https://www.usenix.org/conference/atc22/presentation/li-zijun-help), **Zijun Li**, Linsong Guo, Quan Chen, Jiagan Cheng, Chuhao Xu, Deze Zeng, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo.</li>
-<li><div class="pubtitle">ASPLOS 2022</div> &nbsp;[FaaSFlow: Enable Efficient Workflow Execution For Function-as-a-Service](https://dl.acm.org/doi/abs/10.1145/3503222.3507717), **Zijun Li**, Yushi Liu, Linsong Guo, Quan Chen, Jiagan Cheng, Wenli Zheng, Minyi Guo.</li>
-<li><div class="pubtitle">ACM Comput. Surv.</div> &nbsp;[The Serverless Computing Survey: A Technical Primer for Design Architecture](https://dl.acm.org/doi/abs/10.1145/3508360), **Zijun Li**, Linsong Guo, Jiagan Cheng, Quan Chen, BingSheng He, Minyi Guo.</li>
-<li><div class="pubtitle">IPDPS 2020</div> &nbsp;[Amoeba: Qos-awareness and Reduced Resource Usage of Microservices with Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9139803), **Zijun Li**, Quan Chen, Shuai Xue, Tao Ma, Yong Yang, Zhuo Song, Minyi Guo.</li>
+<li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-rund">RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing.</a> <span class="font-bold">Zijun Li</span>, Jiagan Cheng, Quan Chen, Eryu Guan, Zizheng Bian, Yi Tao, Bin Zha, QiangWang, Weidong Han, Minyi Guo.</li>
+<li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-help">Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing.</a> <span class="font-bold">Zijun Li</span>, Linsong Guo, Quan Chen, Jiagan Cheng, Chuhao Xu, Deze Zeng, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo.</li>
+<li><div class="pubtitle">ASPLOS 2022</div> &nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3503222.3507717">FaaSFlow: Enable Efficient Workflow Execution For Function-as-a-Service.</a> <span class="font-bold">Zijun Li</span>, Yushi Liu, Linsong Guo, Quan Chen, Jiagan Cheng, Wenli Zheng, Minyi Guo.</li>
+<li><div class="pubtitle">ACM Comput. Surv.</div> &nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3508360">The Serverless Computing Survey: A Technical Primer for Design Architecture.</a> <span class="font-bold">Zijun Li</span>, Linsong Guo, Jiagan Cheng, Quan Chen, BingSheng He, Minyi Guo.</li>
+<li><div class="pubtitle">IPDPS 2020</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/9139803">Amoeba: Qos-awareness and Reduced Resource Usage of Microservices with Serverless Computing.</a> <span class="font-bold">Zijun Li</span>, Quan Chen, Shuai Xue, Tao Ma, Yong Yang, Zhuo Song, Minyi Guo.</li>
 </ul>
 
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
