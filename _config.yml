@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zijun Li"
+title                    : "Zijun Li (李 子俊)"
 description              : "Department of Computer Science and Engineering, Shanghai Jiao Tong University"
 repository               : "lzjzx1122/lzjzx1122.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zijun Li"
+  name             : "Zijun Li (李 子俊)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "EPCC (Emerging Parallel Computing Center) Lab"
   location         : "Shanghai, China"

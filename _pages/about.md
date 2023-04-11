@@ -29,7 +29,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Computing Center (EPCC)</a>, Department of Computer Science and Engineering, Shanghai Jiao Tong University Shanghai Jiao Tong University, advised by Prof. Quan Chen and Prof. Minyi Guo. Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
+I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](epcc.sjtu.edu.cn), Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), advised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -73,7 +73,7 @@ I am now a Ph.D. candidate at <a href='epcc.sjtu.edu.cn'>Emerging Parallel Compu
 <!-- # 🎖 Honors and Awards -->
 
 # Educations
-- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China. 
+- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China.
 - *2018.09 - Now*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
 <!-- # 📖 Educations -->
