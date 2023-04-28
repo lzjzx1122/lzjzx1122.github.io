@@ -57,6 +57,7 @@ I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http:/
 </div>
 </div> -->
 <ul>
+<li><div class="pubtitle">ASPLOS 2024</div> &nbsp;DataFlower: Exploiting the Data-flow paradigm For Serverless Workflow Orchestration. <span class="font-bold">Zijun Li</span>, Chuhao Xu, Quan Chen, Jieru Zhao, Chen Chen, Minyi Guo. (Accept after major revision)</li>
 <li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-rund">RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing.</a> <span class="font-bold">Zijun Li</span>, Jiagan Cheng, Quan Chen, Eryu Guan, Zizheng Bian, Yi Tao, Bin Zha, QiangWang, Weidong Han, Minyi Guo.</li>
 <li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-help">Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing.</a> <span class="font-bold">Zijun Li</span>, Linsong Guo, Quan Chen, Jiagan Cheng, Chuhao Xu, Deze Zeng, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo.</li>
 <li><div class="pubtitle">ASPLOS 2022</div> &nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3503222.3507717">FaaSFlow: Enable Efficient Workflow Execution For Function-as-a-Service.</a> <span class="font-bold">Zijun Li</span>, Yushi Liu, Linsong Guo, Quan Chen, Jiagan Cheng, Wenli Zheng, Minyi Guo.</li>
@@ -66,9 +67,10 @@ I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http:/
 
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
-<!-- # Honors and Awards
+# Honors and Awards
 - *2022.09* National Scholarship (Ph.D.). 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2017.04* MCM/ICM Meritorious Winner
+- *2016.11* CUMCM First Price (National)
 <!-- # 🎖 Honors and Awards -->
 
 # Educations
@@ -79,7 +81,7 @@ I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http:/
 
 <!-- # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2016.11*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 <!-- # 💬 Invited Talks -->
 
 
