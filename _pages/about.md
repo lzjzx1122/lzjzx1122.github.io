@@ -69,10 +69,8 @@ I am now a Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http:/
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 # Honors and Awards
-- *2022.09* Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
-- *2022.09* Ph.D. National Scholarship
-- *2017.04* MCM/ICM Meritorious Winner
-- *2016.11* CUMCM First Price (National)
+- *2022.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
+- *2022.09* : Ph.D. National Scholarship
 <!-- # 🎖 Honors and Awards -->
 
 # Educations
