@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
+I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University) [S-Lab](https://personal.ntu.edu.sg/tianwei.zhang/supervision.html). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -75,6 +75,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 <!-- # 🎖 Honors and Awards -->
 
 # Experiences
+- *2023.12 - Now*, Visiting Scholar - School of Computer Science and Engineering, Nanyang Technological University 
 - *2023.09 - Now*, Postdoc - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
 - *2018.09 - 2023.09*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
