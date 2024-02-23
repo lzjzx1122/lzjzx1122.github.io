@@ -20,6 +20,7 @@ redirect_from:
 }
 .awardtitle{
     border: solid #BD666D;
+    color: #BD666D;
     font-size: 12px;
     padding: 0px 5px 0px 5px;
     border-radius: 15px;
