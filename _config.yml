@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijun Li (李 子俊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "EPCC (Emerging Parallel Computing Center) Lab, Shanghai Jiao Tong University"
+  bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University"
   location         : "Shanghai/Singapore"
   employer         :
   pubmed           : 
