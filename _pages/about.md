@@ -20,6 +20,7 @@ redirect_from:
 }
 .font-bold{
     font-weight:bold;
+    font-style:italic;
 }
 </style>
 
@@ -56,9 +57,14 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+<div style="margin-bottom:5px;">
+(*Corresponging Author)
+</div>
 <ul>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="https://arxiv.org/abs/2304.14629">DataFlower: Exploiting the Data-flow paradigm For Serverless Workflow Orchestration.</a> <span class="font-bold">Zijun Li</span>, Chuhao Xu, Quan Chen*, Jieru Zhao, Chen Chen, Minyi Guo*. (Accept to appear)</li>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="/">FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing.</a> Yushi Liu, Shixuan Sun, <span class="font-bold">Zijun Li</span>, Quan Chen*, Sen Gao, Bingsheng He, Chao Li, Minyi Guo*. (Accept to appear)</li>
+<li><div class="pubtitle">ICPADS 2023 Best Paper</div> &nbsp;<a href="/">Microless: Cost-Efficient Hybrid Deployment of Microservices on IaaS VMs and Serverless.</a> Jiagan Cheng; Yilong Zhao; <span class="font-bold">Zijun Li</span>; Quan Chen*; Weihao Cui; Minyi Guo*.</li>
+<li><div class="pubtitle">SoCC 2023</div> &nbsp;<a href="/">Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo.</a> Binghao Chen, Han Zhao*, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen*, <span class="font-bold">Zijun Li</span>, Minyi Guo*.</li>
 <li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-rund">RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing.</a> <span class="font-bold">Zijun Li</span>, Jiagan Cheng, Quan Chen*, Eryu Guan, Zizheng Bian, Yi Tao, Bin Zha, QiangWang, Weidong Han, Minyi Guo*.</li>
 <li><div class="pubtitle">USENIX ATC 2022</div> &nbsp;<a href="https://www.usenix.org/conference/atc22/presentation/li-zijun-help">Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing.</a> <span class="font-bold">Zijun Li</span>, Linsong Guo, Quan Chen*, Jiagan Cheng, Chuhao Xu, Deze Zeng, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo*.</li>
 <li><div class="pubtitle">ASPLOS 2022</div> &nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3503222.3507717">FaaSFlow: Enable Efficient Workflow Execution For Function-as-a-Service.</a> <span class="font-bold">Zijun Li</span>, Yushi Liu, Linsong Guo, Quan Chen*, Jiagan Cheng, Wenli Zheng, Minyi Guo*.</li>
