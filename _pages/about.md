@@ -19,8 +19,7 @@ redirect_from:
     font-weight: bold;
 }
 .font-bold{
-    font-weight:bold;
-    font-style:italic;
+    font-weight:bolder;
 }
 </style>
 
