@@ -57,7 +57,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-<div style="margin-bottom:5px;">
+<div>
 (*Corresponging Author)
 </div>
 <ul>
