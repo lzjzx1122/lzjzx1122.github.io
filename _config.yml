@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijun Li (李 子俊)"
-description              : "EPCC Lab, Shanghai Jiao Tong University"
+description              : "S-Lab for Advanced Intelligence, Nanyang Technological University"
 repository               : "lzjzx1122/lzjzx1122.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijun Li (李 子俊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "S-Lab, Nanyang Technological University"
+  bio              : "EPCC (Emerging Parallel Computing Center) Lab, Shanghai Jiao Tong University"
   location         : "Shanghai/Singapore"
   employer         :
   pubmed           : 
