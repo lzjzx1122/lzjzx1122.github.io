@@ -22,7 +22,6 @@ redirect_from:
     border: solid #BD666D;
     color: #BD666D;
     border-width: 2px;
-    height: 18px;
     font-size: 11px;
     padding: 0px 5px 0px 5px;
     border-radius: 15px;
