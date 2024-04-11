@@ -19,11 +19,11 @@ redirect_from:
     font-weight: bold;
 }
 .awardtitle{
-    border: solid #BD666D;
     color: #BD666D;
-    border-width: 2px;
-    font-size: 11px;
-    padding: 0px 5px 0px 5px;
+    outline: 2px solid #BD666D;
+    outline-offset: -2px;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
     border-radius: 15px;
     float: left;
     font-weight: bold;
