@@ -21,7 +21,9 @@ redirect_from:
 .awardtitle{
     border: solid #BD666D;
     color: #BD666D;
-    font-size: 12px;
+    border-width: 2px;
+    height: 18px;
+    font-size: 11px;
     padding: 0px 5px 0px 5px;
     border-radius: 15px;
     float: left;
