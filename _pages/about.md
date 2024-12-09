@@ -87,7 +87,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 # Honors and Awards
-- *2024.07* : CCF Architectural Committee Outstanding Doctoral Dissertation Award
+- *2024.07* : CCF Computer Architecture Committee Outstanding Doctoral Dissertation Award
 - *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
 - *2022.09* : Ph.D. National Scholarship
 <!-- # 🎖 Honors and Awards -->
