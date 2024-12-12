@@ -87,13 +87,14 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 # Honors and Awards
-- *2024.07* : CCF Computer Architecture Committee Outstanding Doctoral Dissertation Award
+- *2024.12* : CCF Outstanding Doctoral Dissertation Nomination Award
+- *2024.07* : CCF Outstanding Doctoral Dissertation Award of Computer Architecture
 - *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
 - *2022.09* : Ph.D. National Scholarship
 <!-- # 🎖 Honors and Awards -->
 
 # Experiences
-- *2023.12 - Now*, Visiting Scholar - School of Computer Science and Engineering, Nanyang Technological University 
+- *2023.12 - Now*, Visiting Scholar - College of Computing and Data Science (or SCSE), Nanyang Technological University 
 - *2023.09 - Now*, Postdoc - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
 - *2018.09 - 2023.09*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
