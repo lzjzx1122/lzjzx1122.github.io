@@ -84,7 +84,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 <li><div class="pubtitle">中国科学：信息科学</div> &nbsp;<a href="https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0155">Serverless computing based on dynamic-addressable session.一种基于动态可寻址会话的服务器无感知计算.</a> <span class="font-bold">李子俊</span>, 赵一龙, 陈全*, 过敏意*.</li>
 </ul>
 
-<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
+<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flzjzx1122%2Flzjzx1122.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 # Honors and Awards
 - *2024.12* : CCF Outstanding Doctoral Dissertation Nomination Award
