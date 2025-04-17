@@ -1,5 +1,5 @@
 from scholarly import scholarly, ProxyGenerator
-from fp.fp import FreeProxy
+from freeproxy import FreeProxy
 import jsonpickle
 import json
 from datetime import datetime
