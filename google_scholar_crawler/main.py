@@ -1,11 +1,14 @@
 from scholarly import scholarly
+from scholarly import ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
 import os
 
-proxies = {'socks5://127.0.0.1:9050'}
-scholarly.use_proxy(**proxies)
+
+pg = ProxyGenerator()
+success = pg.SingleProxy("127.0.0.1:1234")
+scholarly.use_proxy(pg,ProxyGenerator())
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
