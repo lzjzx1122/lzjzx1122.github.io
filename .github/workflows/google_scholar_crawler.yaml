@@ -13,11 +13,12 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-        sudo apt-get install -y tor
     - name: Run
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
+        pip3 install -U git+https://github.com/OrganicIrradiation/scholarly.git
+        pip3 install -U free-proxy PySocks
         python3 main.py
         cd ./results
         git init
