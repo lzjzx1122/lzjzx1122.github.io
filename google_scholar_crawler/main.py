@@ -1,4 +1,4 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 from fp.fp import FreeProxy
 import jsonpickle
 import json
@@ -6,8 +6,12 @@ from datetime import datetime
 import os
 
 proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
-scholarly.use_proxy(proxy)
-
+pg = ProxyGenerator()
+success = pg.SingleProxy(http=proxy, https=proxy)
+if not success:
+    print("proxy connection error.")
+else:
+    scholarly.use_proxy(pg)
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
