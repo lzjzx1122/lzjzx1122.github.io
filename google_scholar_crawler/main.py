@@ -5,8 +5,14 @@ import json
 from datetime import datetime
 import os
 
-proxy_url = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
-print(f"Using proxy: {proxy_url}")
+server = "zxtw02.mutdot.link"
+port = 22749
+cipher = "aes-256-gcm"
+password = "7762614b-9bad-435d-86e5-aab66a4bec6e"
+
+# 构建 ss 代理 URL
+proxy_url = f"ss://{cipher}:{password}@{server}:{port}"
+
 pg = ProxyGenerator()
 pg.SingleProxy(proxy_url)
 scholarly._ProxyGenerator__proxy = pg
