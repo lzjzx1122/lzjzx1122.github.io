@@ -7,11 +7,9 @@ import os
 
 proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
 pg = ProxyGenerator()
-success = pg.SingleProxy(http=proxy, https=proxy)
-if not success:
-    print("proxy connection error.")
-else:
-    scholarly.use_proxy(pg)
+pg.SingleProxy(proxy)
+scholarly.use_proxy(proxy_generator=pg, secondary_proxy_generator=None)
+
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
