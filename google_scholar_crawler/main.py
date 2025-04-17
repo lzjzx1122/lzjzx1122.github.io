@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 
 proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
-scholarly.use_proxy(http=proxy, https=proxy)
+scholarly.use_proxy(proxy)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
