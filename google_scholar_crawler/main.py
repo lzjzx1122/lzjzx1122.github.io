@@ -8,7 +8,7 @@ import os
 proxy_url = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
 print(f"Using proxy: {proxy_url}")
 pg = ProxyGenerator()
-pg.SingleProxy(proxy=proxy_url)
+pg.SingleProxy(proxy_url)
 scholarly._ProxyGenerator__proxy = pg
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
