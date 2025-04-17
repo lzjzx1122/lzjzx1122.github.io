@@ -5,10 +5,11 @@ import json
 from datetime import datetime
 import os
 
-proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
+proxy_url = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
+print(f"Using proxy: {proxy_url}")
 pg = ProxyGenerator()
-pg.SingleProxy(proxy)
-scholarly.use_proxy(proxy_generator=pg, secondary_proxy_generator=None)
+pg.SingleProxy(proxy=proxy_url)
+scholarly._ProxyGenerator__proxy = pg
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
