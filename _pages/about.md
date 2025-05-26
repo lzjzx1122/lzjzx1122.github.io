@@ -71,6 +71,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 (*Corresponging Author)
 </div>
 <ul>
+<li><div class="pubtitle">IEEE TC</div> &nbsp;<a href="https://ieeexplore.ieee.org/document/11008773/">Lightweight and Holistic-scalable Serverless Secure Container Runtime for High-density Deployment and High-concurrency Startup.</a> <span class="font-bold">Zijun Li</span>, Chengyan Wu, Chuhao Xu, Quan Chen*, Shuo Quan, Bin Zha, QiangWang, Weidong Han, Jie Wu,  Minyi Guo.</li>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="https://dl.acm.org/doi/10.1145/3623278.3624755">DataFlower: Exploiting the Data-flow paradigm For Serverless Workflow Orchestration.</a> <span class="font-bold">Zijun Li</span>, Chuhao Xu, Quan Chen*, Jieru Zhao, Chen Chen, Minyi Guo*.</li>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="https://dl.acm.org/doi/10.1145/3620666.3651355">FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture.</a> Chuhao Xu, Yiyu Liu, <span class="font-bold">Zijun Li</span>, Quan Chen*, Han Zhao, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo.</li>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="https://dl.acm.org/doi/10.1145/3620665.3640361">FaaSGraph: Enabling Scalable, Efficient, and Cost-Effective Graph Processing with Serverless Computing.</a> Yushi Liu, Shixuan Sun, <span class="font-bold">Zijun Li</span>, Quan Chen*, Sen Gao, Bingsheng He, Chao Li, Minyi Guo*.</li>
