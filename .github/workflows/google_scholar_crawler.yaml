@@ -21,7 +21,7 @@ jobs:
         if [ -d "./results" ]; then
           cd ./results
           git init
-          git config --local user.name "${GITHUB_ACTOR}"More actions
+          git config --local user.name "${GITHUB_ACTOR}"
           git config --local user.email "122567142@qq.com"
           export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git add *.json
