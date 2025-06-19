@@ -6,7 +6,7 @@ import os
 import time
 
 max_attempts = 20
-wait_seconds = 120  # 2 minutes
+wait_seconds = 300  # 5 minutes
 
 for attempt in range(1, max_attempts + 1):
     try:
