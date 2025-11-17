@@ -71,6 +71,8 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 (*Corresponging Author)
 </div>
 <ul>
+<li><div class="pubtitle">HPCA 2026</div> &nbsp;<a href="/">Towards Resource-Efficient Serverless LLM Inference with SLINFER.</a> Chuhao Xu, <span class="font-bold">Zijun Li</span>, Quan Chen*, Han Zhao, Xueyan Tang, Minyi Guo.</li>
+<li><div class="pubtitle">HPCA 2026</div> &nbsp;<a href="/">LEGO: Supporting LLM-enhanced Games with One Gaming GPU.</a> Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen*, Pu Pang, <span class="font-bold">Zijun Li</span>, Zhenhua Han, Yuqing Yang, Minyi Guo</li>
 <li><div class="pubtitle">IEEE TC</div> &nbsp;<a href="https://ieeexplore.ieee.org/document/11008773/">Lightweight and Holistic-scalable Serverless Secure Container Runtime for High-density Deployment and High-concurrency Startup.</a> <span class="font-bold">Zijun Li</span>, Chengyan Wu, Chuhao Xu, Quan Chen*, Shuo Quan, Bin Zha, QiangWang, Weidong Han, Jie Wu,  Minyi Guo.</li>
 <li><div class="pubtitle">ACM TACO</div> &nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3743137">EDAS: Enabling Fast Data Loading for GPU Serverless Computing.</a> Han Zhao, Weihao Cui, Quan Chen*, <span class="font-bold">Zijun Li</span>, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo.</li>
 <li><div class="pubtitle">ASPLOS 2024</div> &nbsp;<a href="https://dl.acm.org/doi/10.1145/3620666.3651355">FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture.</a> Chuhao Xu, Yiyu Liu, <span class="font-bold">Zijun Li</span>, Quan Chen*, Han Zhao, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo.</li>
