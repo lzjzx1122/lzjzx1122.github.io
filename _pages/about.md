@@ -72,6 +72,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 </div>
 <ul>
 <!-- <li><div class="pubtitle">xxx</div> &nbsp;<a href="/">xxxx.</a></li> -->
+<li><div class="pubtitle">ACM TACO</div> &nbsp;<a href="/">Delphinus: Improving Resource Efficiency of Applications with Shared Microservices and Diverse Queries.</a> <br> Jiuchen Shi, Jinyuan Chen, Quan Chen*, Kaihua Fu, Fangrong Du, <span class="font-bold">Zijun Li</span>, Deze Zeng, Jiannong Cao, Shuo Quan, Jie Wu, Minyi Guo.</li>
 <li><div class="pubtitle">SIGMOD 2026</div> &nbsp;<a href="/">FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services.</a> <br> Yushi Liu, Yikang Ruan, Letian Ruan, <span class="font-bold">Zijun Li</span>, Sen Gao, Weihao Cui, Shixuan Sun, Quan Chen, Shuo Quan, Jie Wu, Bingsheng He, Minyi Guo.</li>
 <li><div class="pubtitle">HPCA 2026</div> &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/11408548">Towards Resource-Efficient Serverless LLM Inference with SLINFER.</a> <br> Chuhao Xu, <span class="font-bold">Zijun Li</span>, Quan Chen*, Han Zhao, Xueyan Tang, Minyi Guo.</li>
 <li><div class="pubtitle">HPCA 2026</div> &nbsp;<a href="https://ieeexplore.ieee.org/document/11408477">LEGO: Supporting LLM-enhanced Games with One Gaming GPU.</a> <br> Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen*, Pu Pang, <span class="font-bold">Zijun Li</span>, Zhenhua Han, Yuqing Yang, Minyi Guo</li>
@@ -93,7 +94,7 @@ I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sj
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flzjzx1122%2Flzjzx1122.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
 
 # Honors and Awards
-- *2024.12* : CCF Outstanding Doctoral Dissertation Nomination Award
+- *2025.01* : CCF Outstanding Doctoral Dissertation Nomination Award
 - *2024.07* : CCF Outstanding Doctoral Dissertation Award of Computer Architecture
 - *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
 - *2022.09* : Ph.D. National Scholarship
