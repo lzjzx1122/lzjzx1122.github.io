@@ -26,10 +26,9 @@ author = None
 for attempt in range(1, max_attempts + 1):
     try:
         print(f"Attempt {attempt}:", flush=True)
-        if attempt > 1:  # 第一次直连，之后改用免费代理
-            pg = ProxyGenerator()
-            pg.FreeProxies()
-            scholarly.use_proxy(pg)
+        pg = ProxyGenerator()
+        pg.FreeProxies()
+        scholarly.use_proxy(pg)
         author = scholarly.search_author_id(scholar_id)
         scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
         print(f"Attempt {attempt} success", flush=True)
